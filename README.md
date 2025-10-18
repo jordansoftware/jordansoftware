@@ -1,8 +1,4 @@
-<h1 align="center">I'm a passionate Full Stack Developer and a Software Engineering student with experience in building modern web applications. I primarily work with JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and NestJS.
-
-I also have a solid understanding of Java and use Tailwind CSS to create clean, responsive, and user-friendly interfaces. I enjoy transforming ideas into real-world web solutions that are fast, secure, and easy to use, paying close attention to both the frontend and backend to ensure seamless integration.
-
-Constantly learning and exploring new technologies, I aim to deliver high-quality, scalable, and maintainable applications.</h1>
+<h1 align="center">I'm a Full Stack Developer and Software Engineering student. I build modern web apps with JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and NestJS, and also have experience with Java. I create clean, responsive UIs with Tailwind CSS and enjoy turning ideas into fast, secure, and seamless web solutions.</h1>
 
 ###
 
@@ -113,6 +109,6 @@ Constantly learning and exploring new technologies, I aim to deliver high-qualit
 
 ###
 
-<img src="https://raw.githubusercontent.com/jordansoftware/jordansoftware/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jordansoftware/jordansoftware/main/snake.svg" alt="Snake animation" />
 
 ###
